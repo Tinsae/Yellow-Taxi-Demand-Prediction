@@ -1,6 +1,7 @@
 # Yellow-Taxi-Demand-Prediction
 Using LSTM networks to predict demand per location in Manhattan.
-
+View on nbviewer: https://nbviewer.jupyter.org/github/Tinsae/Yellow-Taxi-Demand-Prediction/blob/master/Final%20Capstone-YTDF-Complete.ipynb
+View on Google Colab: https://colab.research.google.com/github/Tinsae/Yellow-Taxi-Demand-Prediction/blob/master/Final%20Capstone-YTDF-Complete.ipynb
 ![Annotation 2019-04-24 165128](https://user-images.githubusercontent.com/8983398/56695204-797fa400-66b6-11e9-9ee7-e637b6d879b7.jpg)
 
 
